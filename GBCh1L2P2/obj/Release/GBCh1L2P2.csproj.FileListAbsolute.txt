@@ -1,0 +1,6 @@
+C:\Users\angu1ss\RiderProjects\GBCh1L2\GBCh1L2P2\bin\Release\GBCh1L2P2.exe
+C:\Users\angu1ss\RiderProjects\GBCh1L2\GBCh1L2P2\bin\Release\GBCh1L2P2.pdb
+C:\Users\angu1ss\RiderProjects\GBCh1L2\GBCh1L2P2\obj\Release\GBCh1L2P2.csprojAssemblyReference.cache
+C:\Users\angu1ss\RiderProjects\GBCh1L2\GBCh1L2P2\obj\Release\GBCh1L2P2.csproj.CoreCompileInputs.cache
+C:\Users\angu1ss\RiderProjects\GBCh1L2\GBCh1L2P2\obj\Release\GBCh1L2P2.exe
+C:\Users\angu1ss\RiderProjects\GBCh1L2\GBCh1L2P2\obj\Release\GBCh1L2P2.pdb
